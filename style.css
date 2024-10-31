@@ -1,4 +1,21 @@
 body{
     color:rgb(0, 0, 0);
     background-color: rgb(2, 17, 231);
+    margin: opx;
+}
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua;
+}
+section{
+    background: rebeccapurple;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 20px;
 }
